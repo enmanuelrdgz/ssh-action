@@ -1,0 +1,22 @@
+{
+  "name": "ssh-action",
+  "version": "1.0.0",
+  "description": "Action to connect to a server via ssh and excecute remote scripts",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/enmanuelrdgz/ssh-action.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/enmanuelrdgz/ssh-action/issues"
+  },
+  "homepage": "https://github.com/enmanuelrdgz/ssh-action#readme",
+  "dependencies": {
+    "ssh2": "^1.16.0"
+  }
+}
